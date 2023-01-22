@@ -1,0 +1,5 @@
+variables:
+  webAppName:    azure-nodejs-demo-dev
+  blobContainer: nodejs-dev
+  cdnEndpoint:   nodejsdemo-dev
+  nodeEnvName:   staging
